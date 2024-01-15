@@ -12,7 +12,7 @@ Salifort Motors is currently facing a high rate of employee turnover, impacting 
 ## Data Understanding
 The analysis utilizes data collected through an employee survey, including variables such as satisfaction level,  number of projects, time spent in the company, Department, salary, and promotion in the last 5 years with 14999 rows and 10 columns.
 
-![employee stayed or left by department](https://drive.google.com/drive/u/1/my-drive/stay-or-left-by-department.png)
+![employee stayed or left by department](https://github.com/Htet-Thu-Ag/Employee-Retention-Project/blob/main/stay-or-left-by-department.png)
 
 
 ## Modeling and Evaluation
