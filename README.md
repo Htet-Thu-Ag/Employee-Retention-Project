@@ -19,7 +19,7 @@ The analysis utilizes data collected through an employee survey, including varia
 After conducting feature engineering, the decision tree model achieved AUC of 93.8%, precision of 87.0% and recall of 90.4%, f1-score of 88.7%, and accuracy of 96.2%, on the test set. The random forest modestly outperformed the decision tree model.
 
 The following figure is feature importance of employee leaving.
-![feature importance for employee leaving](https://drive.google.com/drive/u/1/my-drive/feature-importance)
+![feature importance for employee leaving](https://github.com/Htet-Thu-Ag/Employee-Retention-Project/blob/main/feature-importance.png)
 
 
 ## Conclusion
